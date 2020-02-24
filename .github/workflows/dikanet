@@ -1,0 +1,14 @@
+<?php
+//aku dan kamu
+  $aku = "aku";
+  $kamu = "kamu";
+  $kita = = $aku && $kamu;
+
+    if ($kita == !false) {
+        $jodoh = $kita;
+        id ($jodoh == true) {
+            echo "Alhamdulillah ya Allah";
+        } else {
+            echo "Ya Allah tolong jodohkan hamba dengan dia";
+        }
+    }
